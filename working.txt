@@ -1,0 +1,5 @@
+g3minor4 file ia augmenting our dataset
+g3minor5 is hybrid model of svm-pca-vit with accuracy and confusion matrices
+g3minor1 is a file where we ran cnn and ann model on an augmented dataset 
+vgg19.py file runs vgg19 model on our dataset which has less accuracy than hybrid model
+rest all result and analysis is in the report
